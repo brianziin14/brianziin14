@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🤟
 
-<!--
-**brianziin14/brianziin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Brian Gabriel
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.com.pr)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+brian.souza.silva@escola.pr.gov.br
+
+@brianziin_  
+
+![](https://media1.tenor.com/m/jg7k01FBbTsAAAAd/thumbs-up-well-done.gif)
